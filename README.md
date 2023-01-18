@@ -1,2 +1,2 @@
 # Chale-Hotel
-Projeto Udemy - Desenvolvimento Web Completo 2022 - HTML5, CSS3
+Projeto Udemy - Desenvolvimento Web Completo 2022 -  CSS3 Intermediário & avançado - Projeto Chalé Hotel (Página publicitária)
